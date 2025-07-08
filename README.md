@@ -1,4 +1,5 @@
 # Learning-Phase
 This is the first Git Repository created. 
 <br>
- Author - Raghav Chadha
+ <p style="color:Red">Author</p> - <p style="color:green">Raghav Chadha</p>
+ 
